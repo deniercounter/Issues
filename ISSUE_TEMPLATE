@@ -1,17 +1,17 @@
 ## Bot Info
-* Release Version: <!-- SDK version -->
+* Release Version:  v0.3-alpha
 * Betroffener Channel: <!-- Skype, MS Teams, Slack, Direct Line, etc. -->
 * Browsertyp: <!-- Edge, Chrome, Firefox -->
 
-## Issue Description
+## Beschreibung des Problems
 <!-- Describe your issue, question, or feature request -->
 
 
 
-## Schritte zur Reproduktion (zB. die gemachten Eingaben können über den "list" Befehl im Chat aufgerufen werden)
-1.
-2.
-3.
+## Schritte zur Reproduktion (Hinweis: Die gemachten Eingaben können über den "list" Befehl im Chat aufgerufen werden)
+1. 
+2. 
+3. 
 
 ## Erwartetes Ergebnis
 <!-- What you expected to happen. -->
